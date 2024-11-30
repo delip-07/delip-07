@@ -8,7 +8,6 @@ I'm a passionate web developer who loves to create web applications and bring id
 - 💡 I'm always open to new collaborations and projects.
 
 ## Let's Connect
----
 
 - 💼 This is my portfolio: https://delip07-portfolio.netlify.app/
 - 📧 Feel free to reach out to me via email: delip0207@gmail.com.
